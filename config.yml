@@ -1,0 +1,16 @@
+
+database_test:
+  host: "20.106.201.244"
+  port: "27018"
+  user: "qinzilie"
+  pass: "1KVhcYXa12XC36nhkwlG"
+  dbname: "testneofura"
+  database: "testneofura"
+
+database_main:
+  host: "20.106.201.244"
+  port: "27018"
+  user: "qinzilie"
+  pass: "1KVhcYXa12XC36nhkwlG"
+  dbname: "neofura"
+  database: "neofura"
